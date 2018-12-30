@@ -1,0 +1,42 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ page.title }}</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="UI, UX, Design, Graphic Design, Front-End, Coder, Entrepreneur, Self-taught, Business Owner">
+    <meta name="author" content="Brandon Joshua Powell">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5.0">
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@brandonpweb">
+    <meta name="twitter:title" content="Brandon Powell">
+    <meta name="twitter:description" content="Page description less than 200 characters">
+    <meta name="twitter:creator" content="@brandonpweb">
+    <!-- Twitter Summary card images must be at least 120x120px -->
+    <link href="https://fonts.googleapis.com/css?family=Titillium+Web:200,300,400,600,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css" />
+</head>
+    <body>
+
+
+    <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-6 paddingorder-b">
+                    {% include about.html %}
+                </div>
+            <div class="col-md-6 no-padding order-t">
+                    {% include photo.html %}
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="36dee7ae-d86c-46de-8ca3-8a2f8da3c903";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+    </body>
+</html>
