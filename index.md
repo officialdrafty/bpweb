@@ -7,24 +7,31 @@ image: "/assets/img/me.jpeg"
 image-alt: Photo of Me
 
 twitter: "/assets/img/Twitter.png"
+twitter-link: "https://twitter.com/brandonpweb"
 twitter-alt: "Twitter"
 
 medium: "/assets/img/Medium.png"
+medium-link: "https://medium.com/bpweb"
 medium-alt: "Medium"
 
 instagram: "/assets/img/Instagram.png"
+instagram-link: "https://instagram.com/bpweb"
 instagram-alt: "Instagram"
 
 dribbble: "/assets/img/Dribbble.png"
+dribbble-link: "https://dribbble.com/bpweb"
 dribbble-alt: "Dribbble"
 
 behance: "/assets/img/Behance.png"
+behance-link: "https://behance.com/bpweb"
 behance-alt: "Behance"
 
 linkedin: "/assets/img/Linkedin.png"
+linkedin-link: "https://linkedin.com/in/bpweb"
 linkedin-alt: "Linkedin"
 
 github: "/assets/img/Github.png"
+github-link: "https://github.com/brandonpowell"
 github-alt: "Github"
 
 layout: default
@@ -48,13 +55,13 @@ layout: default
 <p>He is on a mission to build up his very own full-services digital marketing and advertising agency called AgencyOpt. If you want to help me build up my dream, please don’t be afraid to send an email or talk to me in the live chat.</p>
 
 <div class="social-media">
-    <a href="https://twitter.com/brandonpweb" alt="Twitter"><img src="{{ page.twitter }}" alt="{{ page.twitter-alt }}"></a>
-    <a href="https://medium.com/bpweb" alt="Medium"><img src="{{ page.medium }}" alt="{{ page.medium-alt }}"></a>
-    <a href="https://instagram.com/bpweb" alt="Instagram"><img src="{{ page.instagram }}" alt="{{ page.instagram-alt }}"></a>
-    <a href="https://dribbble.com/bpweb" alt="Dribbble"><img src="{{ page.dribbble }}" alt="{{ page.dribbble-alt }}"></a>
-    <a href="https://behance.com/bpweb" alt="Behance"><img src="{{ page.behance }}" alt="{{ page.behance-alt }}"></a>
-    <a href="https://linkedin.com/in/bpweb" alt="Linkedin"><img src="{{ page.linkedin }}" alt="{{ page.linkedin-alt }}"></a>
-    <a href="https://github.com/brandonpowell" alt="Github"><img src="{{ page.github }}" alt="{{ page.github-alt }}"></a>
+    <a href="{{ page.twitter-link }}" alt="Twitter"><img src="{{ page.twitter }}" alt="{{ page.twitter-alt }}"></a>
+    <a href="{{ page.medium-link }}" alt="Medium"><img src="{{ page.medium }}" alt="{{ page.medium-alt }}"></a>
+    <a href="{{ page.instagram-link }}" alt="Instagram"><img src="{{ page.instagram }}" alt="{{ page.instagram-alt }}"></a>
+    <a href="{{ page.dribbble-link }}" alt="Dribbble"><img src="{{ page.dribbble }}" alt="{{ page.dribbble-alt }}"></a>
+    <a href="{{ page.behance-link }}" alt="Behance"><img src="{{ page.behance }}" alt="{{ page.behance-alt }}"></a>
+    <a href="{{ page.linkedin-link }}" alt="Linkedin"><img src="{{ page.linkedin }}" alt="{{ page.linkedin-alt }}"></a>
+    <a href="{{ page.github-link }}" alt="Github"><img src="{{ page.github }}" alt="{{ page.github-alt }}"></a>
 </div>
 </article>
 </div>
