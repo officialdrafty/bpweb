@@ -33,7 +33,7 @@ layout: default
 <div class="col-md-6 paddingorder-b">
 <article>
 
-<h1>{{ page.brand-title }} <span>{{ page.brand-name }}</span></h1>
+<h1>{{ page.title }} <span>{{ page.brand-name }}</span></h1>
 
 <p>Brandon be learning for 4 years as a Self-Taught UI/UX Designer, and he is from Washington DC but lives in Hyattsville, MD. He is looking to create meaningful projects that tell a story through design. He also wants to teach others about tech, design, and coding experience.</p>
 
