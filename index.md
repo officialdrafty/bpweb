@@ -56,6 +56,8 @@ layout: default
     <a href="https://github.com/brandonpowell" alt="Github"><img src="{{ page.github }}" alt="{{ page.github-alt }}"></a>
 </div>
 </article>
+</div>
+
 <div class="col-md-6 no-padding order-t">
 <div class="h-100 d-flex align-items-center justify-content-center">
     <img src="{{ page.image }}" alt="{{ page.image-alt }}">
