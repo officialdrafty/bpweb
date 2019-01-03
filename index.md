@@ -55,7 +55,7 @@ layout: default
     <a href="https://linkedin.com/in/bpweb" alt="Linkedin"><img src="{{ page.linkedin }}" alt="{{ page.linkedin-alt }}"></a>
     <a href="https://github.com/brandonpowell" alt="Github"><img src="{{ page.github }}" alt="{{ page.github-alt }}"></a>
 </div>
-
+</article>
 <div class="col-md-6 no-padding order-t">
 <div class="h-100 d-flex align-items-center justify-content-center">
     <img src="{{ page.image }}" alt="{{ page.image-alt }}">
