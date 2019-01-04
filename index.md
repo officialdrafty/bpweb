@@ -63,6 +63,7 @@ layout: default
     <a href="{{ page.linkedin-link }}" alt="Linkedin"><img src="{{ page.linkedin }}" alt="{{ page.linkedin-alt }}"></a>
     <a href="{{ page.github-link }}" alt="Github"><img src="{{ page.github }}" alt="{{ page.github-alt }}"></a>
 </div>
+
 </article>
 </div>
 
