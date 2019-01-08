@@ -1,7 +1,6 @@
 ---
 title: Brandon
 brand-name: BPWEB
-description: 
 
 image: "/assets/img/me.jpeg"
 image-alt: Photo of Me
@@ -69,7 +68,7 @@ layout: default
 
 <div class="col-md-6 no-padding order-t">
 <div class="h-100 d-flex align-items-center justify-content-center">
-    <img src="{{ page.image }}" alt="{{ page.image-alt }}">
+    <img class="pl" src="{{ page.image }}" alt="{{ page.image-alt }}">
 </div>
 </div>
 
