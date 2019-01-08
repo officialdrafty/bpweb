@@ -61,7 +61,11 @@
     }
 
     .social-media a {
-      padding: 0 25px;
+      padding: 0 5px;
+    }
+
+    .social-media a:first-child {
+      padding-left: 0px; 
     }
     
     li {
