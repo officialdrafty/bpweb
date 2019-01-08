@@ -59,6 +59,10 @@
       display: -webkit-inline-box;
       margin: 2em 0;
     }
+
+    .social-media {
+      padding: 0 15px;
+    }
     
     li {
       list-style: none;
