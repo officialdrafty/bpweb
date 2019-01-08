@@ -41,7 +41,7 @@ layout: default
 
 <h1>{{ page.title }} <span>{{ page.brand-name }}</span></h1>
 
-<p>Brandon be learning for 4 years as a Self-Taught UI/UX Designer, and he is from Washington DC but lives in Hyattsville, MD. He is looking to create meaningful projects that tell a story through design. He also wants to teach others about tech, design, and coding experience.</p>
+<p>Brandon J Powell been learning for 4 years as a Self-Taught UI/UX Designer, and he is from Washington DC but lives in Hyattsville, MD. He is looking to create meaningful projects that tell a story through design. He also wants to teach others about tech, design, and coding experience.</p>
 
 <p>He has had a lot of challenges being in his career, with trying to learn design on his own for the past 4 years and making the shift to coding 2 years back, then back to learning design again.</p>
     
