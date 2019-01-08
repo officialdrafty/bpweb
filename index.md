@@ -1,5 +1,5 @@
 ---
-title: Brandon
+title: BRANDON
 brand-name: BPWEB
 
 image: "/assets/img/me.jpeg"
