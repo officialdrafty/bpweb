@@ -1,41 +1,32 @@
 ---
 title: BRANDON
 brand-name: BPWEB
-
 image: "/assets/img/me.jpeg"
 image-alt: Photo of Me
-
 twitter: "/assets/img/Twitter.png"
-twitter-link: "https://twitter.com/brandonpweb"
-twitter-alt: "Twitter"
-
+twitter-link: https://twitter.com/brandonpweb
+twitter-alt: Twitter
 medium: "/assets/img/Medium.png"
-medium-link: "https://medium.com/bpweb"
-medium-alt: "Medium"
-
+medium-link: https://medium.com/bpweb
+medium-alt: Medium
 instagram: "/assets/img/Instagram.png"
-instagram-link: "https://instagram.com/bpweb"
-instagram-alt: "Instagram"
-
+instagram-link: https://instagram.com/bpweb
+instagram-alt: Instagram
 dribbble: "/assets/img/Dribbble.png"
-dribbble-link: "https://dribbble.com/bpweb"
-dribbble-alt: "Dribbble"
-
+dribbble-link: https://dribbble.com/bpweb
+dribbble-alt: Dribbble
 behance: "/assets/img/Behance.png"
-behance-link: "https://behance.com/bpweb"
-behance-alt: "Behance"
-
+behance-link: https://www.behance.net/brandonpowell
+behance-alt: Behance
 linkedin: "/assets/img/Linkedin.png"
-linkedin-link: "https://linkedin.com/in/bpweb"
-linkedin-alt: "Linkedin"
-
+linkedin-link: https://linkedin.com/in/bpweb
+linkedin-alt: Linkedin
 github: "/assets/img/Github.png"
-github-link: "https://github.com/brandonpowell"
-github-alt: "Github"
-
+github-link: https://github.com/brandonpowell
+github-alt: Github
 layout: default
----
 
+---
 <div class="col-md-6 paddingorder-b">
 <article>
 
@@ -71,5 +62,3 @@ layout: default
     <img class="pl" src="{{ page.image }}" alt="{{ page.image-alt }}">
 </div>
 </div>
-
-
